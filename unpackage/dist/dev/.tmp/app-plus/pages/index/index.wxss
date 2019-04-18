@@ -1,0 +1,173 @@
+
+.top {
+	width: 100%;
+	height: 60rpx;
+	background-color: #16629e;
+}
+.top_card {
+	height: 220rpx;
+	width: 100%;
+	background-color: #1a81d0;
+	border: #1a81d0 1px solid;
+	padding-top: 20rpx;
+}
+.second-card {
+	width: 100%;
+	height: 400rpx;
+	margin-bottom: 20rpx;
+}
+.second-t-card {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	font-size: 12px;
+}
+.first {
+	margin-top: 20rpx;
+}
+.second {
+	margin-top: 40rpx;
+}
+.second-t-card image {
+	width: 65rpx;
+	height: 65rpx;
+}
+.divide {
+	width: 100%;
+	height: 20rpx;
+	background-color: #f5f5f5;
+}
+.top-t-card {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	color: #ffffff;
+	font-size: 12px;
+	margin-top: 17rpx;
+}
+.firstline {
+	margin-left: 20rpx;
+}
+.top_search {
+	border: #1a81d0 1px solid;
+	background-color: #ffffff;
+	width: 72%;
+	height: 60rpx;
+	float: left;
+	text-indent: 55rpx;
+	outline: none;
+	border-radius: 7rpx;
+	font-size: 13px;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcUlEQVQ4T61SwVHDMBC8k/QnJYQOrIn0JumADmI6cAckFRAqIHRAKsB5Sx65BDpICrByzHksY5wEZhj00uxJe3e7izA4IYRJjHEJAPcJRsRSCPGqtf4Yvu3r6VJVVU5ETwAwIaI9ItZElCFiBgA3iLiazWbrMQky0H1+AYCdlDLXWh/TQ56qaZoCER8B4NkYUwxJMIQwjTEG/myMyS+NOWxCRAtrbdmv4L3fAEAupZwOO18ics6ViHg0xnxp5L1ncd7Go10iSKsaY9rV+aD3nohoba1dXRs/4c65OSK+Sym11rr+NwJmqn8ScGB1wVZ/W6GqqhaUUt5eC0si6PQqh83YRk4fh+aglFpcc8J7vwWA5bhRq2YIIYsxsrcHIiqstbuRcByieYdtjTEPZ1FmkqZpNoh4x0UiqrsY832vlCpOp1NGRJzYnqT3cxBdJmqDIoQ4CiHKZBljzrlVF+uW5IzgtyxwPenB+fkTQZpEKbX5BCPq12+1sH7iAAAAAElFTkSuQmCC);
+	background-repeat: no-repeat;
+	background-position-y: center;
+	background-position-x: 15rpx;
+}
+.addressbook {
+	width: 60rpx;
+	height: 60rpx;
+	margin-left: 32rpx;
+}
+.add {
+	width: 62rpx;
+	height: 62rpx;
+	margin-left: 26rpx;
+}
+.saoyisao {
+	width: 65rpx;
+	height: 65rpx;
+}
+.fukuan {
+	width: 53rpx;
+	height: 53rpx;
+	margin-top: 8rpx;
+	margin-bottom: 8rpx;
+}
+.shouqian {
+	width: 60rpx;
+	height: 53rpx;
+	margin-top: 8rpx;
+	margin-bottom: 8rpx;
+}
+.kabao {
+	width: 65rpx;
+	height: 65rpx;
+}
+.card {
+	width: 25%;
+	text-align: center;
+}
+.card_c {
+	width: 25%;
+	text-align: center;
+}
+.card1 {
+	width: 25%;
+	text-align: center;
+}
+.card2 {
+	width: 25%;
+	text-align: center;
+}
+.third-card {
+	width: 100%;
+	height: 124rpx;
+	padding-top: 17rpx;
+}
+.tcard {
+	width: 80rpx;
+	height: 80rpx;
+	margin-top: 13rpx;
+	margin-left: 50rpx;
+	float: left;
+}
+.trcard {
+	width: 28rpx;
+	height: 28rpx;
+	margin-top: 40rpx;
+	margin-right: 40rpx;
+	float: right;
+}
+.leftfont {
+	margin-left: 20rpx;
+	font-size: 13px;
+}
+.rightfont {
+	font-size: 13px;
+	color: #868686;
+	margin-left: 50rpx;
+}
+.forth-card {
+	width: 100%;
+	height: 180rpx;
+}
+.forth-card image {
+	width: 100%;
+	height: 100%;
+}
+.bottom-card {
+	padding-top: 23rpx;
+	font-weight: 500;
+	font-size: 17px;
+}
+.f_font {
+	margin-left: 40rpx;
+}
+.f_card {
+	width: 90%;
+	height: 140rpx;
+	margin: 0 auto;
+	outline: none;
+	border: 1rpx #f5f5f5 solid;
+	margin-top: 23rpx;
+	margin-bottom: 40rpx;
+}
+.f_card image {
+	width: 100%;
+	height: 100%;
+}
+

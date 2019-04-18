@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/wealth",
+    "pages/index/friend",
+    "pages/index/ucenter"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {},
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#1a81d0",
+    "backgroundColor": "#fafbff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/home.png",
+        "selectedIconPath": "static/home-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/index/wealth",
+        "iconPath": "static/money.png",
+        "selectedIconPath": "static/money-active.png",
+        "text": "财富"
+      },
+      {
+        "pagePath": "pages/index/friend",
+        "iconPath": "static/shejiao1.png",
+        "selectedIconPath": "static/shejiao2.png",
+        "text": "朋友"
+      },
+      {
+        "pagePath": "pages/index/ucenter",
+        "iconPath": "static/center.png",
+        "selectedIconPath": "static/center-active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "alipay-uni-app"
+}
